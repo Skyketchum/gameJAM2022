@@ -1,0 +1,3 @@
+My name is Robert Joe Davis. I am from Los Angeles, California. I attend Full Sail University and want to learn about and pursue a career in Game Design. I am looking to work at Game Industries.
+ I want to become better and better with each game I make.
+ My goal is to make my own games and I am working on a few now. I will continue to keep building and working on my skills to keep getting better. I love art and Design!
