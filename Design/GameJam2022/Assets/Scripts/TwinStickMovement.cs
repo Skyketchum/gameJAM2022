@@ -24,6 +24,7 @@ public class TwinStickMovement : MonoBehaviour
     private PlayerControls playerControls;
     private PlayerInput playerInput;
 
+
     private void Awake()
     {
         controller = GetComponent<CharacterController>();
